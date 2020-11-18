@@ -2,6 +2,12 @@
 Run npm install translate-fresh to install the library to your 
 node modules
 
+## GITHUB
+Project Github repo
+
+[Github Repository Link](https://github.com/isakaliu/translate-fresh/)
+
+
 ## Step 1 
 In angular.json at the assets add the Languages directory
 ````
