@@ -17,6 +17,21 @@ In angular.json at the assets add the Languages directory
              "src/Languages"
            ],
 ````
+Import the HttpClientModule in the app.module.ts in the imports array example
+````
+@NgModule({
+  declarations: [
+    AppComponent
+  ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    HttpClientModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+````
 ## Step 2
 Then create a directory with name Languages in your app folder
 

@@ -1,11 +1,26 @@
 {
   "name": "translate-fresh",
-  "version": "0.0.8",
+  "author": "Isak <isak.aliiu@gmail.com>",
+  "version": "0.1.1",
   "peerDependencies": {
     "@angular/common": "^10.0.14",
     "@angular/core": "^10.0.14"
   },
   "dependencies": {
     "tslib": "^2.0.0"
-  }
+  },
+  "description": "Run npm install translate-fresh to install the library to your \r node modules",
+  "main": "karma.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isakaliu/translate-fresh.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isakaliu/translate-fresh/issues"
+  },
+  "homepage": "https://github.com/isakaliu/translate-fresh#readme"
 }
