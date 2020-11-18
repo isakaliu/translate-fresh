@@ -86,3 +86,6 @@ changeLanguage(selectedLanguage): any{
     localStorage.setItem('language', selectedLanguage.value);
   }
 ````
+
+Feel free to ask if something is unclear 
+isak.aliiu@gmail.com
